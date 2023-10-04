@@ -1,0 +1,9 @@
+
+.img1.data-v-8735e056 {
+		width: 100vw;
+		height: 200rpx;
+}
+.img.data-v-8735e056 {
+		width: 600rpx;
+		height: 1000rpx;
+}

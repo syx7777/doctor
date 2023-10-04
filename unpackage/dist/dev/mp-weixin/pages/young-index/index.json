@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "医院智能推荐",
+  "usingComponents": {
+    "uni-segmented-control": "../../uni_modules/uni-segmented-control/components/uni-segmented-control/uni-segmented-control",
+    "uni-group": "../../uni_modules/uni-group/components/uni-group/uni-group",
+    "uni-section": "../../uni_modules/uni-section/components/uni-section/uni-section",
+    "uni-list-chat": "../../uni_modules/uni-list/components/uni-list-chat/uni-list-chat",
+    "uni-icons": "../../uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "uni-list": "../../uni_modules/uni-list/components/uni-list/uni-list",
+    "tab-bar1": "../tabBar"
+  }
+}

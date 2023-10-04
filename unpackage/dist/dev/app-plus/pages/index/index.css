@@ -1,0 +1,112 @@
+
+.container[data-v-1cf27b2a] {
+		width: 100%;
+		height: 200%;
+		background-color: white;
+}
+.center[data-v-1cf27b2a] {
+		width: 100%;
+		display: flex;
+		flex-wrap: nowrap;
+		margin: 0.625rem;
+}
+.item[data-v-1cf27b2a] {
+		width: 78%;
+}
+.timeflex[data-v-1cf27b2a] {
+		width: 16%;
+		display: flex;
+		flex-direction: column;
+}
+.time[data-v-1cf27b2a] {
+		margin-top: 0.625rem;
+		margin-bottom: 1.5625rem;
+		margin-left: 0.3125rem;
+		padding-top: 0.625rem;
+		padding-bottom: 0.625rem;
+}
+.word4[data-v-1cf27b2a] {
+		font-size: 1.02531rem;
+		font-weight: 400;
+		letter-spacing: 0.07313rem;
+		line-height: 1.14344rem;
+		color: rgba(47, 51, 52, 1);
+		text-align: left;
+		vertical-align: top;
+}
+.word5[data-v-1cf27b2a] {
+		font-size: 0.87906rem;
+		font-weight: 400;
+		letter-spacing: 0.07313rem;
+		line-height: 0.98rem;
+		color: rgba(165, 172, 173, 1);
+		text-align: left;
+		vertical-align: top;
+}
+.uni-card-wrapper[data-v-1cf27b2a] {
+		width: 95%;
+		height: 9.08219rem;
+		opacity: 1;
+		border-radius: 1.02531rem;
+		background: rgba(108, 197, 208, 1);
+		margin: 0.625rem;
+}
+.card-up[data-v-1cf27b2a] {
+		display: flex;
+}
+.textwrapper[data-v-1cf27b2a] {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+}
+.card-img[data-v-1cf27b2a] {
+		width: 3.125rem;
+		height: 3.125rem;
+		margin: 0.625rem;
+}
+.text1[data-v-1cf27b2a] {
+		font-size: 1.5rem;
+		font-weight: 400;
+		letter-spacing: 0.07313rem;
+		line-height: 1.63344rem;
+		color: rgba(255, 255, 255, 1);
+		text-align: left;
+		vertical-align: top;
+}
+.text2[data-v-1cf27b2a] {
+		font-size: 1.5rem;
+		font-weight: 400;
+		letter-spacing: 0.07313rem;
+		line-height: 0.98rem;
+		color: rgba(240, 253, 254, 1);
+		text-align: left;
+		vertical-align: top;
+		margin-top: 0.3125rem;
+		margin-left: 0.625rem;
+}
+.linewrapper[data-v-1cf27b2a] {
+		padding-left: 0.625rem;
+		padding-right: 0.625rem;
+}
+.line[data-v-1cf27b2a] {
+		width: 95%;
+		height: 0.3125rem;
+		border-bottom: rgba(129, 211, 222, 1) solid 0.09375rem;
+}
+.icon[data-v-1cf27b2a] {
+		margin-left: 0.625rem;
+}
+.card-down[data-v-1cf27b2a] {
+		display: flex;
+		justify-content: space-between;
+		color: #FFFFFF;
+		margin-top: 0.9375rem;
+}
+.person[data-v-1cf27b2a] {
+		font-size: 1.5rem;
+		margin-right: 0.625rem;
+		line-height: 0.98rem;
+		text-align: right;
+		vertical-align: top;
+		margin-top: 0.3125rem;
+}

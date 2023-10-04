@@ -1,0 +1,1 @@
+<view class="container data-v-5064934a"><view wx:for="{{a}}" wx:for-item="word" wx:key="c" class="data-v-5064934a"><view class="white data-v-5064934a">{{word.a}}</view><view class="blue data-v-5064934a">{{word.b}}</view></view><tab-bar1 class="data-v-5064934a" u-i="5064934a-0" bind:__l="__l"></tab-bar1></view>

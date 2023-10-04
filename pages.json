@@ -1,0 +1,120 @@
+{
+	"pages": [{
+			"path": "pages/medical-record/older-information",
+			"style": {
+				"navigationBarTitleText": "资料详情"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "关怀模式"
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "Carelink"
+			}
+		},
+		{
+			"path": "pages/login/older",
+			"style": {
+				"navigationBarTitleText": "老人端"
+			}
+		},
+		{
+			"path": "pages/login/young",
+			"style": {
+				"navigationBarTitleText": "子女端"
+			}
+		},
+		{
+			"path": "pages/AI/AI",
+			"style": {
+				"navigationBarTitleText": "AI问答"
+			}
+		},
+		{
+			"path": "pages/young-index/index",
+			"style": {
+				"navigationBarTitleText": "医院智能推荐"
+			}
+		},
+		{
+			"path": "pages/medical-record/record",
+			"style": {
+				"navigationBarTitleText": "电子病历"
+			}
+		},
+		// {
+		// 	"path": "pages/medical-record/older-information",
+		// 	"style": {
+		// 		"navigationBarTitleText": "资料详情"
+		// 	}
+		// },
+		// {
+		// 	"path": "pages/medical-record/add",
+		// 	"style": {
+		// 		"navigationBarTitleText": "添加老人"
+		// 	}
+		// },
+		// {
+		// 	"path": "pages/medical-record/information/timing",
+		// 	"style": {
+		// 		"navigationBarTitleText": "定时任务"
+		// 	}
+		// },
+		{
+			"path": "pages/medical-record/information/add_timing",
+			"style": {
+				"navigationBarTitleText": "添加定时任务"
+			}
+		},
+		{
+			"path": "pages/medical-record/confirm",
+			"style": {
+				"navigationBarTitleText": "老人端信息"
+			}
+		},
+		{
+			"path": "pages/young-AI/AI",
+			"style": {
+				"navigationBarTitleText": "AI对话"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	},
+	"tabBar": {
+		"color": "#6CC5D0",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/older/home.png",
+				"selectedIconPath": "static/older/home_selected.png",
+				"text": "主页"
+			},
+			{
+				"pagePath": "pages/AI/AI",
+				"iconPath": "static/older/user.png",
+				"selectedIconPath": "static/older/user_selected.png",
+				"text": "我的"
+			}
+		]
+	},
+	"condition": { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [{
+			"name": "", //模式名称
+			"path": "", //启动页面，必选
+			"query": "" //启动参数，在页面的onLoad函数里面得到
+		}]
+	}
+}

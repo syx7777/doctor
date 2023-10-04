@@ -1,0 +1,59 @@
+
+.img[data-v-d18195fd] {
+		width: 1.5625rem;
+		height: 1.5625rem;
+}
+.tabBar[data-v-d18195fd] {
+		width: 100vw;
+		height: 4.6875rem;
+		background-color: white;
+		position: fixed;
+		display: flex;
+		justify-content: space-around;
+		align-items: center;
+		bottom: 0;
+}
+.bar[data-v-d18195fd] {
+		width: 4.6875rem;
+		height: 4.0625rem;
+		/* background-color: aquamarine; */
+		display: flex;
+		justify-content: space-around;
+		flex-direction: column;
+		align-items: center;
+}
+
+
+.white[data-v-5064934a] {
+		left: 1.67969rem;
+		top: 16.18656rem;
+		width: 12.5rem;
+		/* height: 180.47rpx; */
+		opacity: 1;
+		border-radius: 0 0.7325rem 0.7325rem 0.7325rem;
+		background: rgba(28, 43, 66, 0.03);
+		display: flex;
+		/* justify-content: center; */
+		align-items: center;
+		padding: 0.87906rem 1.90438rem 0.87906rem 1.90438rem;
+		float: left;
+		margin-left: 0.625rem;
+		margin-top: 0.625rem;
+}
+.blue[data-v-5064934a] {
+		left: 11.33781rem;
+		top: 34.49719rem;
+		width: 12.5rem;
+		color: #FFFFFF;
+		/* height: 119.53rpx; */
+		opacity: 1;
+		border-radius: 0.7325rem 0 0.7325rem 0.7325rem;
+		background: rgba(33, 122, 255, 1);
+		display: flex;
+		/* justify-content: center; */
+		align-items: center;
+		padding: 0.87906rem 1.90438rem 0.87906rem 1.90438rem;
+		float: right;
+		margin-right: 0.625rem;
+		margin-top: 0.625rem;
+}

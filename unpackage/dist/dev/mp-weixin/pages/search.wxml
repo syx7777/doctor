@@ -1,0 +1,1 @@
+<view class="search data-v-254a34d2"><uni-search-bar wx:if="{{d}}" class="data-v-254a34d2" bindconfirm="{{a}}" bindinput="{{b}}" u-i="254a34d2-0" bind:__l="__l" bindupdateModelValue="{{c}}" u-p="{{d}}"></uni-search-bar><uni-icons wx:if="{{e}}" class="data-v-254a34d2" u-i="254a34d2-1" bind:__l="__l" u-p="{{e}}"></uni-icons></view>

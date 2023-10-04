@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "AI对话",
+  "usingComponents": {
+    "tab-bar1": "../tabBar"
+  }
+}

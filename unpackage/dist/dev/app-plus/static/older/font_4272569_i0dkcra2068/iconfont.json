@@ -1,0 +1,65 @@
+{
+  "id": "4272569",
+  "name": "eldoctor",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3020037",
+      "name": "二级-定时任务",
+      "font_class": "erji-dingshirenwu",
+      "unicode": "eaae",
+      "unicode_decimal": 60078
+    },
+    {
+      "icon_id": "5831265",
+      "name": "文字",
+      "font_class": "wenzi",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "9509962",
+      "name": "对号",
+      "font_class": "duihao",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "20719687",
+      "name": "对号",
+      "font_class": "duihao1",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "33846253",
+      "name": "叉号",
+      "font_class": "chahao",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "6850812",
+      "name": "键盘",
+      "font_class": "jianpan",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "17782707",
+      "name": "语音",
+      "font_class": "yuyin",
+      "unicode": "e888",
+      "unicode_decimal": 59528
+    },
+    {
+      "icon_id": "26847628",
+      "name": "键盘",
+      "font_class": "jianpan1",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    }
+  ]
+}

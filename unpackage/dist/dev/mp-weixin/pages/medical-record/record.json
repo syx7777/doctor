@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "电子病历",
+  "usingComponents": {
+    "searchbar": "../search",
+    "tab-bar1": "../tabBar"
+  }
+}

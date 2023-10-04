@@ -1,0 +1,68 @@
+
+.container.data-v-e2f8c5c5 {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: space-between;
+}
+.white.data-v-e2f8c5c5 {
+		left: 53.75rpx;
+		top: 517.97rpx;
+		width: 400rpx;
+		/* height: 180.47rpx; */
+		opacity: 1;
+		border-radius: 0rpx 23.44rpx 23.44rpx 23.44rpx;
+		background: rgba(28, 43, 66, 0.03);
+		display: flex;
+		/* justify-content: center; */
+		align-items: center;
+		padding: 28.13rpx 60.94rpx 28.13rpx 60.94rpx;
+		float: left;
+		margin-left: 20rpx;
+		margin-top: 20rpx;
+}
+.blue.data-v-e2f8c5c5 {
+		left: 362.81rpx;
+		top: 1103.91rpx;
+		width: 400rpx;
+		color: #FFFFFF;
+		/* height: 119.53rpx; */
+		opacity: 1;
+		border-radius: 23.44rpx 0rpx 23.44rpx 23.44rpx;
+		background: rgba(33, 122, 255, 1);
+		display: flex;
+		/* justify-content: center; */
+		align-items: center;
+		padding: 28.13rpx 60.94rpx 28.13rpx 60.94rpx;
+		float: right;
+		margin-right: 20rpx;
+		margin-top: 20rpx;
+}
+.word.data-v-e2f8c5c5 {
+		padding-bottom: 200rpx;
+}
+.input.data-v-e2f8c5c5 {
+		position: fixed;
+		bottom: 0rpx;
+		width: 90%;
+		height: 100rpx;
+		margin: 20rpx;
+}
+.keyboard.data-v-e2f8c5c5 {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+}
+.audio.data-v-e2f8c5c5 {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+}
+.audio-animation.data-v-e2f8c5c5 {
+		/* 样式用于表示录音时的动画效果 */
+		width: 100px;
+		height: 100px;
+		background-color: #6CC5D0;
+		border-radius: 50%;
+		transition: background-color 0.3s ease;
+}

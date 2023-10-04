@@ -1,0 +1,24 @@
+
+.img.data-v-d18195fd {
+		width: 50rpx;
+		height: 50rpx;
+}
+.tabBar.data-v-d18195fd {
+		width: 100vw;
+		height: 150rpx;
+		background-color: white;
+		position: fixed;
+		display: flex;
+		justify-content: space-around;
+		align-items: center;
+		bottom: 0;
+}
+.bar.data-v-d18195fd {
+		width: 150rpx;
+		height: 130rpx;
+		/* background-color: aquamarine; */
+		display: flex;
+		justify-content: space-around;
+		flex-direction: column;
+		align-items: center;
+}
